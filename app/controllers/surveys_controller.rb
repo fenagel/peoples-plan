@@ -1,0 +1,2 @@
+class SurveysController < ApiController
+end
